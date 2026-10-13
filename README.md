@@ -4,8 +4,10 @@
 
 **Tính năng:**
 - **Giá hôm nay:** giá vùng 1 và vùng 2, mức tăng/giảm so với kỳ trước, đếm ngược tới kỳ điều hành tiếp theo.
+- **Thông báo khi giá đổi:** mỗi kỳ điều hành giá, báo mức tăng/giảm cho đúng loại xăng dầu xe bạn dùng.
 - **Tính chi phí:** đổi tiền ⇄ lít, tiền đổ đầy bình, chi phí cho một chuyến đi.
 - **Nhật ký đổ xăng:** chi tiêu theo tháng và mức tiêu hao thực tế.
+- **Sao lưu & khôi phục:** lưu xe, nhật ký và cài đặt ra một file để chuyển sang máy mới hoặc cài lại app.
 - **Quản lý xe:** danh sách 51 dòng xe máy Honda, Yamaha với thông số chính hãng; tự tìm theo tên và đời xe.
 - **Widget màn hình chính:** tuỳ biến bằng **Widget Studio**, với 4 phong cách Trống Đồng, Phố Cổ Hội An, Kính mờ và AMOLED.
 - **Giao diện:** nền Sáng / Tối / Theo hệ thống; theme "Modern Heritage" với hoạ tiết trống đồng, nón lá, đèn lồng, nền đổi theo giờ trong ngày.
