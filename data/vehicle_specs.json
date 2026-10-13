@@ -3,6 +3,236 @@
   "generated_at": "2026-10-13",
   "vehicles": [
     {
+      "id": "ducati-desertx",
+      "brand": "Ducati",
+      "model": "DesertX",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "desertx",
+        "ducati desertx"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 21000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://www.bikedekho.com/compare/desertx-vs-panigale-v2",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ducati-monster",
+      "brand": "Ducati",
+      "model": "Monster",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "monster",
+        "ducati monster"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 14000,
+          "consumption_ml_per_100km": 5200,
+          "source_kind": "reference",
+          "source_url": "https://1000ps.com/en-gb/model/10402/ducati-monster/2024",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ducati-multistrada-v4",
+      "brand": "Ducati",
+      "model": "Multistrada V4",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "multistrada v4",
+        "multistradav4",
+        "ducati multistrada v4"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 22000,
+          "consumption_ml_per_100km": 6600,
+          "source_kind": "reference",
+          "source_url": "https://www.ducati.com/ww/en/bikes/multistrada/multistrada-v4",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ducati-panigale-v4",
+      "brand": "Ducati",
+      "model": "Panigale V4",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "panigale v4",
+        "panigalev4",
+        "ducati panigale v4"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 16000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://www.ultimatespecs.com/motorcycles-specs/ducati/ducati-panigale-v4-2020",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ducati-scrambler-icon",
+      "brand": "Ducati",
+      "model": "Scrambler Icon",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "scrambler icon",
+        "scramblericon",
+        "ducati scrambler icon"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 13500,
+          "consumption_ml_per_100km": 5200,
+          "source_kind": "reference",
+          "source_url": "https://www.1000ps.com/en-us/model/7929/ducati-scrambler-icon/2024",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ducati-streetfighter-v4",
+      "brand": "Ducati",
+      "model": "Streetfighter V4",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "streetfighter v4",
+        "streetfighterv4",
+        "ducati streetfighter v4"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 16000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://www.team-bhp.com/new-bikes/ducati/streetfighter-v4/specifications/",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ford-everest-may-dau",
+      "brand": "Ford",
+      "model": "Everest (máy dầu)",
+      "type": "CAR",
+      "fuel": "DIESEL_0001S",
+      "aliases": [
+        "everest may dau",
+        "everestmay dau",
+        "ford everest may dau"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 80000,
+          "consumption_ml_per_100km": 7500,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-ford-everest-active-2.0l-4x2-at-2026-18910",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ford-everest-xang",
+      "brand": "Ford",
+      "model": "Everest (xăng)",
+      "type": "CAR",
+      "aliases": [
+        "everest xang",
+        "everestxang",
+        "ford everest xang"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 80000,
+          "consumption_ml_per_100km": 10000,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-ford-everest-platinum+-2.3l-4x4-at-2026-18914",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ford-ranger-may-dau",
+      "brand": "Ford",
+      "model": "Ranger (máy dầu)",
+      "type": "CAR",
+      "fuel": "DIESEL_0001S",
+      "aliases": [
+        "ranger may dau",
+        "rangermay dau",
+        "ford ranger may dau"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 80000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-ford-ranger-wildtrak-3.0l-4x4-at-2026-18920",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ford-ranger-raptor-xang",
+      "brand": "Ford",
+      "model": "Ranger Raptor (xăng)",
+      "type": "CAR",
+      "aliases": [
+        "ranger raptor xang",
+        "rangerraptor xang",
+        "ford ranger raptor xang"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 80000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-ford-ranger-raptor-3.0l-4x4-at-2026-18921",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ford-territory",
+      "brand": "Ford",
+      "model": "Territory",
+      "type": "CAR",
+      "aliases": [
+        "territory",
+        "ford territory"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 60000,
+          "consumption_ml_per_100km": 7400,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-ford-territory-platinum-1.5-at-2026-19346",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
       "id": "honda-adv350",
       "brand": "Honda",
       "model": "ADV350",
@@ -141,6 +371,27 @@
       ]
     },
     {
+      "id": "honda-br-v",
+      "brand": "Honda",
+      "model": "BR-V",
+      "type": "CAR",
+      "aliases": [
+        "br v",
+        "brv",
+        "honda br v"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 42000,
+          "consumption_ml_per_100km": 6400,
+          "source_kind": "official",
+          "source_url": "https://www.honda.com.vn/o-to/chi-tiet/18",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
       "id": "honda-cb1000-hornet-sp",
       "brand": "Honda",
       "model": "CB1000 Hornet SP",
@@ -258,6 +509,88 @@
       ]
     },
     {
+      "id": "honda-city",
+      "brand": "Honda",
+      "model": "City",
+      "type": "CAR",
+      "aliases": [
+        "city",
+        "honda city"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 40000,
+          "consumption_ml_per_100km": 5600,
+          "source_kind": "official",
+          "source_url": "https://www.honda.com.vn/o-to/chi-tiet/2",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "honda-civic",
+      "brand": "Honda",
+      "model": "Civic",
+      "type": "CAR",
+      "aliases": [
+        "civic",
+        "honda civic"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 47000,
+          "consumption_ml_per_100km": 5980,
+          "source_kind": "official",
+          "source_url": "https://www.honda.com.vn/o-to/chi-tiet/19",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "honda-civic-e-hev",
+      "brand": "Honda",
+      "model": "Civic e:HEV",
+      "type": "CAR",
+      "aliases": [
+        "civic e hev",
+        "civice hev",
+        "honda civic e hev"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 40000,
+          "consumption_ml_per_100km": 4560,
+          "source_kind": "official",
+          "source_url": "https://www.honda.com.vn/o-to/chi-tiet/19",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "honda-civic-type-r",
+      "brand": "Honda",
+      "model": "Civic Type R",
+      "type": "CAR",
+      "aliases": [
+        "civic type r",
+        "civictype r",
+        "honda civic type r"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 47000,
+          "consumption_ml_per_100km": 9200,
+          "source_kind": "official",
+          "source_url": "https://www.honda.com.vn/o-to/chi-tiet/20",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
       "id": "honda-cl500",
       "brand": "Honda",
       "model": "CL500",
@@ -272,6 +605,48 @@
           "tank_ml": 12200,
           "consumption_ml_per_100km": 3680,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/cl500?version=78",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "honda-cr-v",
+      "brand": "Honda",
+      "model": "CR-V",
+      "type": "CAR",
+      "aliases": [
+        "cr v",
+        "crv",
+        "honda cr v"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 57000,
+          "consumption_ml_per_100km": 7300,
+          "source_kind": "official",
+          "source_url": "https://www.honda.com.vn/o-to/chi-tiet/17",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "honda-cr-v-e-hev",
+      "brand": "Honda",
+      "model": "CR-V e:HEV",
+      "type": "CAR",
+      "aliases": [
+        "cr v e hev",
+        "crv e hev",
+        "honda cr v e hev"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 57000,
+          "consumption_ml_per_100km": 5200,
+          "source_kind": "official",
+          "source_url": "https://www.honda.com.vn/o-to/chi-tiet/17",
           "checked_at": "2026-10-13"
         }
       ]
@@ -350,6 +725,27 @@
           "tank_ml": 21000,
           "consumption_ml_per_100km": 5750,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/gold-wing-2025?version=14",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "honda-hr-v",
+      "brand": "Honda",
+      "model": "HR-V",
+      "type": "CAR",
+      "aliases": [
+        "hr v",
+        "hrv",
+        "honda hr v"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 40000,
+          "consumption_ml_per_100km": 6700,
+          "source_kind": "official",
+          "source_url": "https://www.honda.com.vn/o-to/chi-tiet/21",
           "checked_at": "2026-10-13"
         }
       ]
@@ -649,6 +1045,2399 @@
       ]
     },
     {
+      "id": "husqvarna-svartpilen-401",
+      "brand": "Husqvarna",
+      "model": "Svartpilen 401",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "svartpilen 401",
+        "svartpilen401",
+        "husqvarna svartpilen 401"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 13000,
+          "consumption_ml_per_100km": 3400,
+          "source_kind": "reference",
+          "source_url": "https://remotors.fi/eng/husqvarna_svartpilen_401_2024-p-1221208",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "husqvarna-vitpilen-401",
+      "brand": "Husqvarna",
+      "model": "Vitpilen 401",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "vitpilen 401",
+        "vitpilen401",
+        "husqvarna vitpilen 401"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 13000,
+          "consumption_ml_per_100km": 3400,
+          "source_kind": "reference",
+          "source_url": "https://www.1000ps.com/en-gb/comparison/292269/husqvarna-svartpilen-401-2023-vs-husqvarna-vitpilen-401-2024",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-accent",
+      "brand": "Hyundai",
+      "model": "Accent",
+      "type": "CAR",
+      "aliases": [
+        "accent",
+        "hyundai accent"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 45000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-accent-1.5-mt-2026-18417",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-creta",
+      "brand": "Hyundai",
+      "model": "Creta",
+      "type": "CAR",
+      "aliases": [
+        "creta",
+        "hyundai creta"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 40000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-creta-cao-cap-1.5-at-2026-18423",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-custin",
+      "brand": "Hyundai",
+      "model": "Custin",
+      "type": "CAR",
+      "aliases": [
+        "custin",
+        "hyundai custin"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 58000,
+          "consumption_ml_per_100km": 7130,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-custin-cao-cap-2.0t-2026-18628",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-elantra",
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "type": "CAR",
+      "aliases": [
+        "elantra",
+        "hyundai elantra"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 47000,
+          "consumption_ml_per_100km": 5830,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-elantra-2.0-at-cao-cap-2026-18640",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-grand-i10",
+      "brand": "Hyundai",
+      "model": "Grand i10",
+      "type": "CAR",
+      "aliases": [
+        "grand i10",
+        "grandi10",
+        "hyundai grand i10"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 37000,
+          "consumption_ml_per_100km": 5340,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-i10-1.2-mt-tieu-chuan-2026-18630",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-santa-fe",
+      "brand": "Hyundai",
+      "model": "Santa Fe",
+      "type": "CAR",
+      "aliases": [
+        "santa fe",
+        "santafe",
+        "hyundai santa fe"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 67000,
+          "consumption_ml_per_100km": 8310,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-santafe-exclusive-2.5l-2026-18425",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-stargazer",
+      "brand": "Hyundai",
+      "model": "Stargazer",
+      "type": "CAR",
+      "aliases": [
+        "stargazer",
+        "hyundai stargazer"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 40000,
+          "consumption_ml_per_100km": 6450,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-stargazer-cao-cap-1.5-at-2026-18696",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-tucson-hybrid",
+      "brand": "Hyundai",
+      "model": "Tucson Hybrid",
+      "type": "CAR",
+      "aliases": [
+        "tucson hybrid",
+        "tucsonhybrid",
+        "hyundai tucson hybrid"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 54000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-tucson-hybrid-2026-19347",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-tucson-may-dau",
+      "brand": "Hyundai",
+      "model": "Tucson (máy dầu)",
+      "type": "CAR",
+      "fuel": "DIESEL_0001S",
+      "aliases": [
+        "tucson may dau",
+        "tucsonmay dau",
+        "hyundai tucson may dau"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 54000,
+          "consumption_ml_per_100km": 6100,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-tucson-2.0-at-crdi-dac-biet-2026-18434",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-tucson-xang",
+      "brand": "Hyundai",
+      "model": "Tucson (xăng)",
+      "type": "CAR",
+      "aliases": [
+        "tucson xang",
+        "tucsonxang",
+        "hyundai tucson xang"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 54000,
+          "consumption_ml_per_100km": 6100,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-tucson-2.0-at-tieu-chuan-2026-18432",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-venue",
+      "brand": "Hyundai",
+      "model": "Venue",
+      "type": "CAR",
+      "aliases": [
+        "venue",
+        "hyundai venue"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 45000,
+          "consumption_ml_per_100km": 5670,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-hyundai-venue-1.0-t-gdi-2026-18636",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-eliminator-500",
+      "brand": "Kawasaki",
+      "model": "Eliminator 500",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "eliminator 500",
+        "eliminator500",
+        "kawasaki eliminator 500"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 13000,
+          "consumption_ml_per_100km": 4900,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/eliminator/street-cruiser/eliminator/2027-eliminator-500",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-kle500-se",
+      "brand": "Kawasaki",
+      "model": "KLE500 SE",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "kle500 se",
+        "kle500se",
+        "kawasaki kle500 se"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 16000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/kle/rally-adventure/kle500/2027-kle500-se",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-meguro-s1",
+      "brand": "Kawasaki",
+      "model": "Meguro S1",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "meguro s1",
+        "meguros1",
+        "kawasaki meguro s1"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 12000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/meguro/retro-classic/meguro-s1/2027-meguro-s1",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-ninja-500",
+      "brand": "Kawasaki",
+      "model": "Ninja 500",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "ninja 500",
+        "ninja500",
+        "kawasaki ninja 500"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 14000,
+          "consumption_ml_per_100km": 4250,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/sport/ninja-500/2027-ninja-500",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-ninja-650",
+      "brand": "Kawasaki",
+      "model": "Ninja 650",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "ninja 650",
+        "ninja650",
+        "kawasaki ninja 650"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 15000,
+          "consumption_ml_per_100km": 5400,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/sport/ninja-650/2026-ninja-650",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-ninja-h2-carbon",
+      "brand": "Kawasaki",
+      "model": "Ninja H2 Carbon",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "ninja h2 carbon",
+        "ninjah2 carbon",
+        "kawasaki ninja h2 carbon"
+      ],
+      "specs": [
+        {
+          "from_year": 2022,
+          "tank_ml": 17000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/hypersport/ninja-h2/2022-ninja-h2-carbon",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-ninja-h2r",
+      "brand": "Kawasaki",
+      "model": "Ninja H2R",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "ninja h2r",
+        "ninjah2r",
+        "kawasaki ninja h2r"
+      ],
+      "specs": [
+        {
+          "from_year": 2022,
+          "tank_ml": 17000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/hypersport/ninja-h2r/2022-ninja-h2r",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-ninja-zx-10r",
+      "brand": "Kawasaki",
+      "model": "Ninja ZX-10R",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "ninja zx 10r",
+        "ninjazx 10r",
+        "kawasaki ninja zx 10r"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 17000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/supersport/ninja-zx-10r/2026-ninja-zx-10r",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-ninja-zx-4rr",
+      "brand": "Kawasaki",
+      "model": "Ninja ZX-4RR",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "ninja zx 4rr",
+        "ninjazx 4rr",
+        "kawasaki ninja zx 4rr"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 15000,
+          "consumption_ml_per_100km": 5700,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/supersport/ninja-zx-4rr/2026-ninja-zx-4rr",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-ninja-zx-6r",
+      "brand": "Kawasaki",
+      "model": "Ninja ZX-6R",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "ninja zx 6r",
+        "ninjazx 6r",
+        "kawasaki ninja zx 6r"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 17000,
+          "consumption_ml_per_100km": 6580,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/supersport/ninja-zx-6r/2027-ninja-zx-6r",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-versys-650",
+      "brand": "Kawasaki",
+      "model": "Versys 650",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "versys 650",
+        "versys650",
+        "kawasaki versys 650"
+      ],
+      "specs": [
+        {
+          "from_year": 2023,
+          "tank_ml": 21000,
+          "consumption_ml_per_100km": 5300,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/versys/adventure-touring/versys-650/2023-versys-650",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-vulcan-s-abs",
+      "brand": "Kawasaki",
+      "model": "Vulcan S ABS",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "vulcan s abs",
+        "vulcans abs",
+        "kawasaki vulcan s abs"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 14000,
+          "consumption_ml_per_100km": 5500,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/vulcan/sport-cruiser/vulcan-s/2027-vulcan-s-abs",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-w230",
+      "brand": "Kawasaki",
+      "model": "W230",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "w230",
+        "kawasaki w230"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 12000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/w/retro-classic/w230/2027-w230",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-w800",
+      "brand": "Kawasaki",
+      "model": "W800",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "w800",
+        "kawasaki w800"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 15000,
+          "consumption_ml_per_100km": 5400,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/w/retro-classic/w800/2027-w800",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-z1100-se",
+      "brand": "Kawasaki",
+      "model": "Z1100 SE",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "z1100 se",
+        "z1100se",
+        "kawasaki z1100 se"
+      ],
+      "specs": [
+        {
+          "from_year": 2027,
+          "tank_ml": 17000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/supernaked/z1100/2027-z1100-se",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-z500",
+      "brand": "Kawasaki",
+      "model": "Z500",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "z500",
+        "kawasaki z500"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 14000,
+          "consumption_ml_per_100km": 4900,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/supernaked/z500/2024-z500",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-z650",
+      "brand": "Kawasaki",
+      "model": "Z650",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "z650",
+        "kawasaki z650"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 15000,
+          "consumption_ml_per_100km": 4400,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/supernaked/z650/2026-z650-s",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-z650rs",
+      "brand": "Kawasaki",
+      "model": "Z650RS",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "z650rs",
+        "kawasaki z650rs"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 12000,
+          "consumption_ml_per_100km": 5300,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/retro-sport/z650rs/2026-z650rs",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-z900",
+      "brand": "Kawasaki",
+      "model": "Z900",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "z900",
+        "kawasaki z900"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 17000,
+          "consumption_ml_per_100km": 5310,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/supernaked/z900/2026-z900",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kawasaki-z900rs-se",
+      "brand": "Kawasaki",
+      "model": "Z900RS SE",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "z900rs se",
+        "z900rsse",
+        "kawasaki z900rs se"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 17000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/retro-sport/z900rs/2026-z900rs-se",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-carens",
+      "brand": "Kia",
+      "model": "Carens",
+      "type": "CAR",
+      "aliases": [
+        "carens",
+        "kia carens"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 45000,
+          "consumption_ml_per_100km": 6900,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-carens-1.5g-ivt-2026-18575",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-carnival-hybrid",
+      "brand": "Kia",
+      "model": "Carnival Hybrid",
+      "type": "CAR",
+      "aliases": [
+        "carnival hybrid",
+        "carnivalhybrid",
+        "kia carnival hybrid"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 72000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-carnival-signature-1.6-turbo-hev-7s-2026-18441",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-carnival-may-dau",
+      "brand": "Kia",
+      "model": "Carnival (máy dầu)",
+      "type": "CAR",
+      "fuel": "DIESEL_0001S",
+      "aliases": [
+        "carnival may dau",
+        "carnivalmay dau",
+        "kia carnival may dau"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 72000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-carnival-luxury-2.2d-2026-18437",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-k3",
+      "brand": "Kia",
+      "model": "K3",
+      "type": "CAR",
+      "aliases": [
+        "k3",
+        "kia k3"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 50000,
+          "consumption_ml_per_100km": 6800,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-k3-premium-2.0-at-2026-18530",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-k5",
+      "brand": "Kia",
+      "model": "K5",
+      "type": "CAR",
+      "aliases": [
+        "k5",
+        "kia k5"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 60000,
+          "consumption_ml_per_100km": 6900,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-k5-gt-line-2.5-at-2026-18570",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-morning",
+      "brand": "Kia",
+      "model": "Morning",
+      "type": "CAR",
+      "aliases": [
+        "morning",
+        "kia morning"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 35000,
+          "consumption_ml_per_100km": 5800,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-morning-mt-2026-18564",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-seltos",
+      "brand": "Kia",
+      "model": "Seltos",
+      "type": "CAR",
+      "aliases": [
+        "seltos",
+        "kia seltos"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 50000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-seltos-1.5-at-2026-18577",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-sonet",
+      "brand": "Kia",
+      "model": "Sonet",
+      "type": "CAR",
+      "aliases": [
+        "sonet",
+        "kia sonet"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 45000,
+          "consumption_ml_per_100km": 5970,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-sonet-1.5-at-2026-18574",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-sorento-hybrid",
+      "brand": "Kia",
+      "model": "Sorento Hybrid",
+      "type": "CAR",
+      "aliases": [
+        "sorento hybrid",
+        "sorentohybrid",
+        "kia sorento hybrid"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 67000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-sorento-signature-1.6-turbo-hev-2026-19235",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-sorento-may-dau",
+      "brand": "Kia",
+      "model": "Sorento (máy dầu)",
+      "type": "CAR",
+      "fuel": "DIESEL_0001S",
+      "aliases": [
+        "sorento may dau",
+        "sorentomay dau",
+        "kia sorento may dau"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 67000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-sorento-signature-2.2d-at-2026-18588",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-sorento-xang",
+      "brand": "Kia",
+      "model": "Sorento (xăng)",
+      "type": "CAR",
+      "aliases": [
+        "sorento xang",
+        "sorentoxang",
+        "kia sorento xang"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 67000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-sorento-signature-2.5g-at-2026-18590",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "kia-sportage",
+      "brand": "Kia",
+      "model": "Sportage",
+      "type": "CAR",
+      "aliases": [
+        "sportage",
+        "kia sportage"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 54000,
+          "consumption_ml_per_100km": 7900,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-kia-sportage-luxury-2.0g-2026-19231",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ktm-1390-super-duke-r",
+      "brand": "KTM",
+      "model": "1390 Super Duke R",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "1390 super duke r",
+        "1390super duke r",
+        "ktm 1390 super duke r"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 17500,
+          "consumption_ml_per_100km": 5900,
+          "source_kind": "reference",
+          "source_url": "https://www.autocarindia.com/bikes/ktm/1390-super-duke-r/specifications",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ktm-200-duke",
+      "brand": "KTM",
+      "model": "200 Duke",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "200 duke",
+        "200duke",
+        "ktm 200 duke"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 13500,
+          "consumption_ml_per_100km": null,
+          "source_kind": "official",
+          "source_url": "https://www.ktmindia.com/ktm-bikes/naked-bike/ktm-200-duke/specifications",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ktm-250-duke",
+      "brand": "KTM",
+      "model": "250 Duke",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "250 duke",
+        "250duke",
+        "ktm 250 duke"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 15000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "official",
+          "source_url": "https://www.ktmindia.com/ktm-bikes/naked-bike/ktm-250-duke-price/specifications",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ktm-390-adventure",
+      "brand": "KTM",
+      "model": "390 Adventure",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "390 adventure",
+        "390adventure",
+        "ktm 390 adventure"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 14500,
+          "consumption_ml_per_100km": null,
+          "source_kind": "official",
+          "source_url": "https://www.ktmindia.com/ktm-bikes/travel/ktm-390-adventure/specifications",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ktm-390-duke",
+      "brand": "KTM",
+      "model": "390 Duke",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "390 duke",
+        "390duke",
+        "ktm 390 duke"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 15000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "official",
+          "source_url": "https://www.ktmindia.com/ktm-bikes/naked-bike/ktm-390-duke/specifications",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ktm-890-duke-r",
+      "brand": "KTM",
+      "model": "890 Duke R",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "890 duke r",
+        "890duke r",
+        "ktm 890 duke r"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 14000,
+          "consumption_ml_per_100km": 4740,
+          "source_kind": "official",
+          "source_url": "https://www.ktmindia.com/-/media/images/ktm/ktm-big-bikes/brochures/ktm-890-duke-brochure.pdf",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "ktm-rc-390",
+      "brand": "KTM",
+      "model": "RC 390",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "rc 390",
+        "rc390",
+        "ktm rc 390"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 13700,
+          "consumption_ml_per_100km": null,
+          "source_kind": "official",
+          "source_url": "https://www.ktmindia.com/ktm-bikes/supersport/ktm-rc-390/specifications",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mazda-cx-3",
+      "brand": "Mazda",
+      "model": "CX-3",
+      "type": "CAR",
+      "aliases": [
+        "cx 3",
+        "cx3",
+        "mazda cx 3"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 48000,
+          "consumption_ml_per_100km": 5910,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-mazda-cx3-1.5-at-2026-18472",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mazda-cx-5",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "type": "CAR",
+      "aliases": [
+        "cx 5",
+        "cx5",
+        "mazda cx 5"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 56000,
+          "consumption_ml_per_100km": 7000,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-mazda-cx5-signature-sport-2.5-at-2026-18551",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mazda-cx-8",
+      "brand": "Mazda",
+      "model": "CX-8",
+      "type": "CAR",
+      "aliases": [
+        "cx 8",
+        "cx8",
+        "mazda cx 8"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 72000,
+          "consumption_ml_per_100km": 8750,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-mazda-cx8-premium-2.5-at-2026-18554",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mazda-mazda2",
+      "brand": "Mazda",
+      "model": "Mazda2",
+      "type": "CAR",
+      "aliases": [
+        "mazda2",
+        "mazda mazda2"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 44000,
+          "consumption_ml_per_100km": 5840,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-mazda-2-sport-luxury-2026-18560",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mazda-mazda3",
+      "brand": "Mazda",
+      "model": "Mazda3",
+      "type": "CAR",
+      "aliases": [
+        "mazda3",
+        "mazda mazda3"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 51000,
+          "consumption_ml_per_100km": 6230,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-mazda-3-1.5l-sport-luxury-2026-18542",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-attrage",
+      "brand": "Mitsubishi",
+      "model": "Attrage",
+      "type": "CAR",
+      "aliases": [
+        "attrage",
+        "mitsubishi attrage"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 42000,
+          "consumption_ml_per_100km": 5590,
+          "source_kind": "official",
+          "source_url": "https://www.mitsubishi-motors.com.vn/attrage",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-destinator",
+      "brand": "Mitsubishi",
+      "model": "Destinator",
+      "type": "CAR",
+      "aliases": [
+        "destinator",
+        "mitsubishi destinator"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 45000,
+          "consumption_ml_per_100km": 7300,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-mitsubishi-destinator-premium-2026-18374",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-outlander",
+      "brand": "Mitsubishi",
+      "model": "Outlander",
+      "type": "CAR",
+      "aliases": [
+        "outlander",
+        "mitsubishi outlander"
+      ],
+      "specs": [
+        {
+          "from_year": 2025,
+          "tank_ml": 63000,
+          "consumption_ml_per_100km": 8480,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-mitsubishi-outlander-2.0-cvt-2025-17312",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-pajero-sport",
+      "brand": "Mitsubishi",
+      "model": "Pajero Sport",
+      "type": "CAR",
+      "aliases": [
+        "pajero sport",
+        "pajerosport",
+        "mitsubishi pajero sport"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 70000,
+          "consumption_ml_per_100km": 11200,
+          "source_kind": "official",
+          "source_url": "https://www.mitsubishi-motors.com.vn/pajero-sport",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-triton",
+      "brand": "Mitsubishi",
+      "model": "Triton",
+      "type": "CAR",
+      "fuel": "DIESEL_0001S",
+      "aliases": [
+        "triton",
+        "mitsubishi triton"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 75000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-mitsubishi-triton-glx-2wd-at-2026-18697",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-xforce",
+      "brand": "Mitsubishi",
+      "model": "Xforce",
+      "type": "CAR",
+      "aliases": [
+        "xforce",
+        "mitsubishi xforce"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 42000,
+          "consumption_ml_per_100km": 6300,
+          "source_kind": "official",
+          "source_url": "https://www.mitsubishi-motors.com.vn/new-xforce",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-xpander",
+      "brand": "Mitsubishi",
+      "model": "Xpander",
+      "type": "CAR",
+      "aliases": [
+        "xpander",
+        "mitsubishi xpander"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 45000,
+          "consumption_ml_per_100km": 6990,
+          "source_kind": "official",
+          "source_url": "https://www.mitsubishi-motors.com.vn/newxpander",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-xpander-cross",
+      "brand": "Mitsubishi",
+      "model": "Xpander Cross",
+      "type": "CAR",
+      "aliases": [
+        "xpander cross",
+        "xpandercross",
+        "mitsubishi xpander cross"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 45000,
+          "consumption_ml_per_100km": 7230,
+          "source_kind": "official",
+          "source_url": "https://www.mitsubishi-motors.com.vn/new-xpander-cross",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "nissan-almera",
+      "brand": "Nissan",
+      "model": "Almera",
+      "type": "CAR",
+      "aliases": [
+        "almera",
+        "nissan almera"
+      ],
+      "specs": [
+        {
+          "from_year": 2025,
+          "tank_ml": 35000,
+          "consumption_ml_per_100km": 5210,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-nissan-almera-el-1.0-cvt-2025-17037",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "nissan-kicks-e-power",
+      "brand": "Nissan",
+      "model": "Kicks e-Power",
+      "type": "CAR",
+      "aliases": [
+        "kicks e power",
+        "kickse power",
+        "nissan kicks e power"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 41000,
+          "consumption_ml_per_100km": 4600,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-nissan-kicks-e-power-e-2024-15937",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "nissan-navara",
+      "brand": "Nissan",
+      "model": "Navara",
+      "type": "CAR",
+      "fuel": "DIESEL_0001S",
+      "aliases": [
+        "navara",
+        "nissan navara"
+      ],
+      "specs": [
+        {
+          "from_year": 2025,
+          "tank_ml": 80000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-nissan-navara-el-2.3-at-2wd-2025-17545",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "piaggio-liberty-125",
+      "brand": "Piaggio",
+      "model": "Liberty 125",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "liberty 125",
+        "liberty125",
+        "piaggio liberty 125"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 6000,
+          "consumption_ml_per_100km": 2660,
+          "source_kind": "reference",
+          "source_url": "https://xe.chotot.com/cua-hang-chinh-hang/he-thong-cua-hang-piaggio-vespa-topcom/piaggio-liberty-s-125-66ed40a046b04b53e414dd33",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "piaggio-medley-125",
+      "brand": "Piaggio",
+      "model": "Medley 125",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "medley 125",
+        "medley125",
+        "piaggio medley 125"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 7000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://www.rideto.com/bike-reviews/bike-review-piaggio-medley-125/",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "suzuki-jimny",
+      "brand": "Suzuki",
+      "model": "Jimny",
+      "type": "CAR",
+      "aliases": [
+        "jimny",
+        "suzuki jimny"
+      ],
+      "specs": [
+        {
+          "from_year": 2025,
+          "tank_ml": 40000,
+          "consumption_ml_per_100km": 7500,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-suzuki-jimny-1.5l-4x4-at-2025-17313",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "suzuki-raider-r150",
+      "brand": "Suzuki",
+      "model": "Raider R150",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "raider r150",
+        "raiderr150",
+        "suzuki raider r150"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 4000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "official",
+          "source_url": "https://www.suzuki.com.ph/motors/motor/raider-r150/",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "suzuki-satria",
+      "brand": "Suzuki",
+      "model": "Satria",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "satria",
+        "suzuki satria"
+      ],
+      "specs": [
+        {
+          "from_year": 2025,
+          "tank_ml": 4000,
+          "consumption_ml_per_100km": 2940,
+          "source_kind": "official",
+          "source_url": "https://suzuki.com.vn/bike/satria",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "suzuki-satria-pro",
+      "brand": "Suzuki",
+      "model": "Satria Pro",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "satria pro",
+        "satriapro",
+        "suzuki satria pro"
+      ],
+      "specs": [
+        {
+          "from_year": 2025,
+          "tank_ml": 4000,
+          "consumption_ml_per_100km": 3170,
+          "source_kind": "official",
+          "source_url": "https://suzuki.com.vn/bike/satria",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "suzuki-swift",
+      "brand": "Suzuki",
+      "model": "Swift",
+      "type": "CAR",
+      "aliases": [
+        "swift",
+        "suzuki swift"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 37000,
+          "consumption_ml_per_100km": 4260,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-suzuki-swift-1.2-at-2026-19047",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "suzuki-v-strom-250sx",
+      "brand": "Suzuki",
+      "model": "V-Strom 250SX",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "v strom 250sx",
+        "vstrom 250sx",
+        "suzuki v strom 250sx"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 12000,
+          "consumption_ml_per_100km": 2740,
+          "source_kind": "official",
+          "source_url": "https://suzuki.com.vn/vnm-strom",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "suzuki-xl7-hybrid",
+      "brand": "Suzuki",
+      "model": "XL7 Hybrid",
+      "type": "CAR",
+      "aliases": [
+        "xl7 hybrid",
+        "xl7hybrid",
+        "suzuki xl7 hybrid"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 45000,
+          "consumption_ml_per_100km": 5900,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-suzuki-xl7-hybrid-1.5-at-2026-18798",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-angel-110",
+      "brand": "SYM",
+      "model": "Angel 110",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "angel 110",
+        "angel110",
+        "sym angel 110"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 3400,
+          "consumption_ml_per_100km": 1760,
+          "source_url": "https://www.sym.com.vn/san-pham/angel-110-38.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-angela-50",
+      "brand": "SYM",
+      "model": "Angela 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "angela 50",
+        "angela50",
+        "sym angela 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 3400,
+          "consumption_ml_per_100km": 1260,
+          "source_url": "https://www.sym.com.vn/san-pham/angela-50-son-mo--26.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-attila-50",
+      "brand": "SYM",
+      "model": "Attila 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "attila 50",
+        "attila50",
+        "sym attila 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 6200,
+          "consumption_ml_per_100km": 2220,
+          "source_url": "https://www.sym.com.vn/san-pham/attila-50-5.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-elegant-50",
+      "brand": "SYM",
+      "model": "Elegant 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "elegant 50",
+        "elegant50",
+        "sym elegant 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 4000,
+          "consumption_ml_per_100km": 1530,
+          "source_url": "https://www.sym.com.vn/san-pham/elegant-50-banh-mam--23.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-elegant-sport-50",
+      "brand": "SYM",
+      "model": "Elegant Sport 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "elegant sport 50",
+        "elegantsport 50",
+        "sym elegant sport 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 4000,
+          "consumption_ml_per_100km": 1530,
+          "source_url": "https://www.sym.com.vn/san-pham/elegant-sport-50-banh-cam--36.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-elite-50",
+      "brand": "SYM",
+      "model": "Elite 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "elite 50",
+        "elite50",
+        "sym elite 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 4300,
+          "consumption_ml_per_100km": 1880,
+          "source_url": "https://www.sym.com.vn/san-pham/elite-50-phien-ban-dac-biet-27.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-galaxy-50",
+      "brand": "SYM",
+      "model": "Galaxy 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "galaxy 50",
+        "galaxy50",
+        "sym galaxy 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 3400,
+          "consumption_ml_per_100km": 1290,
+          "source_url": "https://www.sym.com.vn/san-pham/galaxy-50-banh-mam--29.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-naga-150",
+      "brand": "SYM",
+      "model": "Naga 150",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "naga 150",
+        "naga150",
+        "sym naga 150"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 7300,
+          "consumption_ml_per_100km": 2260,
+          "source_url": "https://www.sym.com.vn/san-pham/naga-150-40.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-priti-125",
+      "brand": "SYM",
+      "model": "Priti 125",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "priti 125",
+        "priti125",
+        "sym priti 125"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 6500,
+          "consumption_ml_per_100km": 1960,
+          "source_url": "https://www.sym.com.vn/san-pham/priti-125-39.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-priti-50",
+      "brand": "SYM",
+      "model": "Priti 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "priti 50",
+        "priti50",
+        "sym priti 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 6500,
+          "consumption_ml_per_100km": 1750,
+          "source_url": "https://www.sym.com.vn/san-pham/priti-50-35.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-shark-50",
+      "brand": "SYM",
+      "model": "Shark 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "shark 50",
+        "shark50",
+        "sym shark 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 5000,
+          "consumption_ml_per_100km": 1950,
+          "source_url": "https://www.sym.com.vn/san-pham/shark-50-32.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-shark-efi-50",
+      "brand": "SYM",
+      "model": "Shark EFI 50",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "shark efi 50",
+        "sharkefi 50",
+        "sym shark efi 50"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 5200,
+          "consumption_ml_per_100km": 1790,
+          "source_url": "https://www.sym.com.vn/san-pham/shark-efi-50-41.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-tpbw-125",
+      "brand": "SYM",
+      "model": "TPBW 125",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "tpbw 125",
+        "tpbw125",
+        "sym tpbw 125"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 5000,
+          "consumption_ml_per_100km": 1750,
+          "source_url": "https://www.sym.com.vn/san-pham/tpbw-125-phien-ban-key-set--43.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sym-tuscany-150",
+      "brand": "SYM",
+      "model": "Tuscany 150",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "tuscany 150",
+        "tuscany150",
+        "sym tuscany 150"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 5700,
+          "consumption_ml_per_100km": 2480,
+          "source_url": "https://www.sym.com.vn/san-pham/tuscany-150-34.html",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-avanza-premio",
+      "brand": "Toyota",
+      "model": "Avanza Premio",
+      "type": "CAR",
+      "aliases": [
+        "avanza premio",
+        "avanzapremio",
+        "toyota avanza premio"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 43000,
+          "consumption_ml_per_100km": 5800,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-avanza-premio-1.5-mt-2026-18616",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-camry-hybrid",
+      "brand": "Toyota",
+      "model": "Camry Hybrid",
+      "type": "CAR",
+      "aliases": [
+        "camry hybrid",
+        "camryhybrid",
+        "toyota camry hybrid"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 50000,
+          "consumption_ml_per_100km": 4200,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-camry-2.5-hev-mid-2026-18594",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-camry-xang",
+      "brand": "Toyota",
+      "model": "Camry (xăng)",
+      "type": "CAR",
+      "aliases": [
+        "camry xang",
+        "camryxang",
+        "toyota camry xang"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 60000,
+          "consumption_ml_per_100km": 6600,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-camry-2.0q-2026-18593",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-corolla-cross-hybrid",
+      "brand": "Toyota",
+      "model": "Corolla Cross Hybrid",
+      "type": "CAR",
+      "aliases": [
+        "corolla cross hybrid",
+        "corollacross hybrid",
+        "toyota corolla cross hybrid"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 36000,
+          "consumption_ml_per_100km": 3600,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-corolla_cross-1.8hev-2026-18449",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-corolla-cross-xang",
+      "brand": "Toyota",
+      "model": "Corolla Cross (xăng)",
+      "type": "CAR",
+      "aliases": [
+        "corolla cross xang",
+        "corollacross xang",
+        "toyota corolla cross xang"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 47000,
+          "consumption_ml_per_100km": 7500,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-corolla_cross-1.8v-2026-18448",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-fortuner-may-dau",
+      "brand": "Toyota",
+      "model": "Fortuner (máy dầu)",
+      "type": "CAR",
+      "fuel": "DIESEL_0001S",
+      "aliases": [
+        "fortuner may dau",
+        "fortunermay dau",
+        "toyota fortuner may dau"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 80000,
+          "consumption_ml_per_100km": 8470,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-fortuner-legender-2.8l-4x4-at-2026-18610",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-fortuner-xang",
+      "brand": "Toyota",
+      "model": "Fortuner (xăng)",
+      "type": "CAR",
+      "aliases": [
+        "fortuner xang",
+        "fortunerxang",
+        "toyota fortuner xang"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 80000,
+          "consumption_ml_per_100km": 11200,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-fortuner-2.7l-4x2-at-2026-18607",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-innova-cross-hybrid",
+      "brand": "Toyota",
+      "model": "Innova Cross Hybrid",
+      "type": "CAR",
+      "aliases": [
+        "innova cross hybrid",
+        "innovacross hybrid",
+        "toyota innova cross hybrid"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 52000,
+          "consumption_ml_per_100km": 4900,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-innova-cross-hev-2.0-cvt-2026-18622",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-innova-cross-xang",
+      "brand": "Toyota",
+      "model": "Innova Cross (xăng)",
+      "type": "CAR",
+      "aliases": [
+        "innova cross xang",
+        "innovacross xang",
+        "toyota innova cross xang"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 52000,
+          "consumption_ml_per_100km": 7100,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-innova-cross-2.0g-cvt-2026-18620",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-raize",
+      "brand": "Toyota",
+      "model": "Raize",
+      "type": "CAR",
+      "aliases": [
+        "raize",
+        "toyota raize"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 36000,
+          "consumption_ml_per_100km": 5600,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-raize-g-1.0-cvt-2026-18611",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-veloz-cross",
+      "brand": "Toyota",
+      "model": "Veloz Cross",
+      "type": "CAR",
+      "aliases": [
+        "veloz cross",
+        "velozcross",
+        "toyota veloz cross"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 43000,
+          "consumption_ml_per_100km": 5800,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-veloz-cross-1.5-cvt-2026-18618",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-vios",
+      "brand": "Toyota",
+      "model": "Vios",
+      "type": "CAR",
+      "aliases": [
+        "vios",
+        "toyota vios"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 42000,
+          "consumption_ml_per_100km": 5800,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-vios-e-1.5-mt-2026-18599",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-wigo",
+      "brand": "Toyota",
+      "model": "Wigo",
+      "type": "CAR",
+      "aliases": [
+        "wigo",
+        "toyota wigo"
+      ],
+      "specs": [
+        {
+          "from_year": 2026,
+          "tank_ml": 36000,
+          "consumption_ml_per_100km": 5200,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-wigo-g-1.2-at-2026-18592",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "toyota-yaris",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "type": "CAR",
+      "aliases": [
+        "yaris",
+        "toyota yaris"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 42000,
+          "consumption_ml_per_100km": 6380,
+          "source_kind": "reference",
+          "source_url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-toyota-yaris-g-1.5-at-2024-15984",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "triumph-bonneville-t120",
+      "brand": "Triumph",
+      "model": "Bonneville T120",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "bonneville t120",
+        "bonnevillet120",
+        "triumph bonneville t120"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 14500,
+          "consumption_ml_per_100km": 4700,
+          "source_kind": "official",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/classic/bonneville-t120/specification",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "triumph-scrambler-400-x",
+      "brand": "Triumph",
+      "model": "Scrambler 400 X",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "scrambler 400 x",
+        "scrambler400 x",
+        "triumph scrambler 400 x"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 13000,
+          "consumption_ml_per_100km": 3500,
+          "source_kind": "official",
+          "source_url": "https://www.triumphmotorcycles.co.uk/motorcycles/classic/scrambler-400-x/specification",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "triumph-speed-400",
+      "brand": "Triumph",
+      "model": "Speed 400",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "speed 400",
+        "speed400",
+        "triumph speed 400"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 13000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "official",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/classic/speed-400/speed-400-2024",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "triumph-speed-twin-900",
+      "brand": "Triumph",
+      "model": "Speed Twin 900",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "speed twin 900",
+        "speedtwin 900",
+        "triumph speed twin 900"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 12000,
+          "consumption_ml_per_100km": 4100,
+          "source_kind": "official",
+          "source_url": "https://www.triumphmotorcycles.co.uk/motorcycles/classic/bonneville-speed-twin-900/specification",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "triumph-street-triple-765",
+      "brand": "Triumph",
+      "model": "Street Triple 765",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "street triple 765",
+        "streettriple 765",
+        "triumph street triple 765"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 15000,
+          "consumption_ml_per_100km": null,
+          "source_kind": "reference",
+          "source_url": "https://www.team-bhp.com/new-bikes/triumph/street-triple-r/specifications/",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "triumph-tiger-900",
+      "brand": "Triumph",
+      "model": "Tiger 900",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "tiger 900",
+        "tiger900",
+        "triumph tiger 900"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 20000,
+          "consumption_ml_per_100km": 4700,
+          "source_kind": "official",
+          "source_url": "https://triumphmotorcycles.co.uk/motorcycles/adventure/tiger-900/specification",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "triumph-tiger-sport-660",
+      "brand": "Triumph",
+      "model": "Tiger Sport 660",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "tiger sport 660",
+        "tigersport 660",
+        "triumph tiger sport 660"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 17200,
+          "consumption_ml_per_100km": 4500,
+          "source_kind": "official",
+          "source_url": "https://www.triumphmotorcycles.com/motorcycles/prior-model-year/2024/tiger-sport-660",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "triumph-trident-660",
+      "brand": "Triumph",
+      "model": "Trident 660",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "trident 660",
+        "trident660",
+        "triumph trident 660"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 14000,
+          "consumption_ml_per_100km": 4700,
+          "source_kind": "official",
+          "source_url": "https://triumphmotorcycles.co.uk/motorcycles/roadsters/trident/trident-660",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "vespa-gts-125",
+      "brand": "Vespa",
+      "model": "GTS 125",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "gts 125",
+        "gts125",
+        "vespa gts 125"
+      ],
+      "specs": [
+        {
+          "from_year": 2022,
+          "tank_ml": 7000,
+          "consumption_ml_per_100km": 2400,
+          "source_kind": "reference",
+          "source_url": "https://1000ps.com/en-gb/comparison/71805/vespa-gts-125-2022-vs-vespa-gts-300-2022",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "vespa-gts-300",
+      "brand": "Vespa",
+      "model": "GTS 300",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "gts 300",
+        "gts300",
+        "vespa gts 300"
+      ],
+      "specs": [
+        {
+          "from_year": 2022,
+          "tank_ml": 8500,
+          "consumption_ml_per_100km": 3200,
+          "source_kind": "reference",
+          "source_url": "https://1000ps.com/en-gb/comparison/71805/vespa-gts-125-2022-vs-vespa-gts-300-2022",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "vespa-primavera-125",
+      "brand": "Vespa",
+      "model": "Primavera 125",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "primavera 125",
+        "primavera125",
+        "vespa primavera 125"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 7000,
+          "consumption_ml_per_100km": 2630,
+          "source_kind": "reference",
+          "source_url": "https://xe.chotot.com/cua-hang-chinh-hang/he-thong-cua-hang-piaggio-vespa-topcom/vespa-primavera-125-66ed409d46b04b53e414dd2c",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "vespa-sprint-125",
+      "brand": "Vespa",
+      "model": "Sprint 125",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "sprint 125",
+        "sprint125",
+        "vespa sprint 125"
+      ],
+      "specs": [
+        {
+          "from_year": 2024,
+          "tank_ml": 7000,
+          "consumption_ml_per_100km": 2630,
+          "source_kind": "reference",
+          "source_url": "https://xe.chotot.com/cua-hang-chinh-hang/he-thong-cua-hang-piaggio-vespa-topcom/vespa-sprint-125-abs-66ed409946b04b53e414dd26",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
       "id": "yamaha-exciter-155-vva",
       "brand": "Yamaha",
       "model": "Exciter 155 VVA",
@@ -683,7 +3472,7 @@
           "from_year": null,
           "tank_ml": 5400,
           "consumption_ml_per_100km": 2070,
-          "source_url": "https://yamaha-motor.com.vn/xe/exciter-155-vva-tcs-phien-ban-sp-d191/",
+          "source_url": "https://yamaha-motor.com.vn/xe/exciter-155-vva-tcs-phien-ban-monster-d199/",
           "checked_at": "2026-10-13"
         }
       ]
@@ -826,6 +3615,26 @@
       ]
     },
     {
+      "id": "yamaha-mt-03",
+      "brand": "Yamaha",
+      "model": "MT-03",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "mt 03",
+        "mt03",
+        "yamaha mt 03"
+      ],
+      "specs": [
+        {
+          "from_year": 2025,
+          "tank_ml": 14000,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://yamaha-motor.com.vn/xe/mt-03-2025-brgb/",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
       "id": "yamaha-mt-15",
       "brand": "Yamaha",
       "model": "MT-15",
@@ -880,6 +3689,26 @@
           "tank_ml": 5500,
           "consumption_ml_per_100km": 2210,
           "source_url": "https://yamaha-motor.com.vn/xe/nvx-155-phien-ban-gp-2025-d111-2/",
+          "checked_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "yamaha-pg-1-abs",
+      "brand": "Yamaha",
+      "model": "PG-1 ABS",
+      "type": "MOTORBIKE",
+      "aliases": [
+        "pg 1 abs",
+        "pg1 abs",
+        "yamaha pg 1 abs"
+      ],
+      "specs": [
+        {
+          "from_year": null,
+          "tank_ml": 5100,
+          "consumption_ml_per_100km": null,
+          "source_url": "https://yamaha-motor.com.vn/xe/pg-1-abs-moi-phien-ban-gioi-han-dg12-2/",
           "checked_at": "2026-10-13"
         }
       ]
