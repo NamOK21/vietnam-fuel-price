@@ -8,7 +8,7 @@
 - **Tính chi phí:** đổi tiền ⇄ lít, tiền đổ đầy bình, chi phí cho một chuyến đi.
 - **Nhật ký đổ xăng:** chi tiêu theo tháng và mức tiêu hao thực tế.
 - **Sao lưu & khôi phục:** lưu xe, nhật ký và cài đặt ra một file để chuyển sang máy mới hoặc cài lại app.
-- **Quản lý xe:** danh sách 51 dòng xe máy Honda, Yamaha với thông số chính hãng; tự tìm theo tên và đời xe.
+- **Quản lý xe:** gần 190 dòng xe có sẵn dung tích bình và mức tiêu hao: xe máy Honda, Yamaha, SYM, Suzuki, Vespa, Piaggio, KTM, Husqvarna, Kawasaki, Triumph, Ducati và ô tô Toyota, Hyundai, Kia, Mazda, Honda, Mitsubishi, Ford, Nissan, Suzuki. Tự tìm theo tên và đời xe.
 - **Widget màn hình chính:** tuỳ biến bằng **Widget Studio**, với 4 phong cách Trống Đồng, Phố Cổ Hội An, Kính mờ và AMOLED.
 - **Giao diện:** nền Sáng / Tối / Theo hệ thống; theme "Modern Heritage" với hoạ tiết trống đồng, nón lá, đèn lồng, nền đổi theo giờ trong ngày.
 
