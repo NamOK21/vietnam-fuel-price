@@ -1,0 +1,11 @@
+{
+  "version_code": 3,
+  "version_name": "0.3.0",
+  "published_at": "2026-10-13",
+  "apk_url": "https://github.com/NamOK21/vietnam-fuel-price/releases/download/preview/gia-xang-hom-nay.apk",
+  "changes": [
+    "Thêm xe SYM, Suzuki, Piaggio, Vespa, KTM, Husqvarna, Kawasaki, Triumph, Ducati và nhiều dòng ô tô phổ biến",
+    "Báo khi có bản cập nhật mới của app",
+    "Bấm \"Giá hôm nay\" ở thanh dưới để quay về từ Widget Studio và Cài đặt"
+  ]
+}
