@@ -1,0 +1,1543 @@
+{
+  "schema_version": 1,
+  "source": "petrolimex+vnexpress",
+  "generated_at": "2026-10-12T14:54:12+07:00",
+  "periods": [
+    {
+      "effective_at": "2026-10-08T15:00:00+07:00",
+      "source_url": "https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-phut-ngay-08-10-2026.html",
+      "prices": [
+        {
+          "code": "DIESEL_0001S",
+          "region1": 30520,
+          "region2": 31130
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 29120,
+          "region2": 29700
+        },
+        {
+          "code": "E10_RON95_III",
+          "region1": 28250,
+          "region2": 28810
+        },
+        {
+          "code": "E10_RON95_V",
+          "region1": 29050,
+          "region2": 29630
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 27700,
+          "region2": 28250
+        },
+        {
+          "code": "KEROSENE",
+          "region1": 30630,
+          "region2": 31240
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-10-01T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 27180
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 26560
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 29710
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-09-24T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 27080
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 26390
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 30490
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-09-17T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 25630
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 25130
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 29940
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-09-10T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 24230
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 23740
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 28480
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-09-03T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23270
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22480
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27740
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-08-27T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22600
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21760
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 28080
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-08-20T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22660
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21830
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 28540
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-08-13T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22110
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21230
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27230
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-08-06T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22320
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21720
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27540
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-07-30T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22850
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22380
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27620
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-07-23T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 21430
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 20880
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 25760
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-07-16T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20550
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19820
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 23320
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-07-09T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20000
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19190
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 21740
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-07-02T16:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20410
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19730
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 21170
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-07-01T00:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 21200
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 20780
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 21860
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-06-25T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19910
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19350
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 21860
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-06-18T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20750
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 20120
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 23530
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-06-11T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22060
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21330
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 25870
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-06-04T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22330
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21780
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 26860
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-05-28T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23660
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 23250
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27650
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-05-21T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 25050
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 24340
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 28760
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-05-14T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23450
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 23130
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27220
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-05-07T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23730
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 23790
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27490
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-04-29T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23190
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22620
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 28170
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-04-23T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22360
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21830
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 26690
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-04-21T16:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 22350
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21930
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27850
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-04-16T00:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23160
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22590
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 31040
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-04-09T15:30:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23070
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22340
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 32960
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-04-08T15:30:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 25690
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 24730
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 42840
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-04-03T23:45:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 26080
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 25420
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 44780
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-04-02T23:30:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 24450
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 23860
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 40820
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-27T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23690
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 23320
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 35440
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-25T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 28020
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 28070
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 37890
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-24T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 31420
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 30110
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 39660
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-19T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 28660
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 27170
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 33420
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-14T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 24060
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22500
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27020
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-13T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 24060
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22500
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27020
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-12T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 24060
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22500
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 27020
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-11T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 23770
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 22950
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 26470
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-10T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 27170
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 26570
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 30710
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-07T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 25850
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 25220
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 30230
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-03-05T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 21730
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 21440
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 23030
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-02-26T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19820
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19520
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19270
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-02-20T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 18940
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18630
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18520
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-02-12T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19070
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18830
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18460
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-02-05T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 18700
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18430
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18450
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-01-29T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 18710
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18330
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18170
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-01-22T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 18520
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18280
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17700
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-01-15T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 18590
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18370
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17280
+        }
+      ]
+    },
+    {
+      "effective_at": "2026-01-08T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 18460
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18230
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17060
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-12-31T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 18800
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18430
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17250
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-12-25T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 18870
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 18710
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17250
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-12-18T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19410
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19230
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17470
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-12-11T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19820
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19610
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18150
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-12-04T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20150
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19820
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18380
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-11-27T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19650
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19280
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18800
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-11-20T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20120
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19800
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19820
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-11-13T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20150
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19840
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19860
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-11-06T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20010
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19680
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19320
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-10-30T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20120
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19760
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19200
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-10-23T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19450
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19050
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17880
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-10-16T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19680
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19220
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18420
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-10-09T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19500
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19130
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18600
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-10-02T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19920
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19620
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19030
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-09-25T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19830
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19610
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18650
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-09-18T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20220
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19980
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18700
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-09-11T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20040
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19750
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18640
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-09-04T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20070
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19850
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18470
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-08-28T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 20080
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19770
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18350
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-08-21T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19840
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19460
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17900
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-08-14T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19660
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19350
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18070
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-08-07T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19830
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19600
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18800
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-07-31T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19600
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19400
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19060
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-07-24T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E10_RON95_III",
+          "region1": 19490
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19270
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19120
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-07-17T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19480
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18790
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-07-10T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19650
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18830
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-07-03T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19440
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 18400
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-06-26T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 20910
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19700
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-06-19T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 20630
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 19150
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-06-12T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19460
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17700
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-06-05T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19260
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17420
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-05-29T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19190
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17130
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-05-22T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19120
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17400
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-05-15T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19180
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17220
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-05-08T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 18770
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 16800
+        }
+      ]
+    },
+    {
+      "effective_at": "2025-05-05T15:00:00+07:00",
+      "source": "vnexpress",
+      "prices": [
+        {
+          "code": "E5_RON92",
+          "region1": 19150
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 17350
+        }
+      ]
+    }
+  ]
+}
