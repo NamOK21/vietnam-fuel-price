@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T09:49:41Z",
+  "generated_at": "2026-10-19T07:09:07Z",
   "vehicles": [
     {
       "id": "ducati-desertx",
@@ -247,7 +247,7 @@
           "tank_ml": 11700,
           "consumption_ml_per_100km": 3680,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/adv350?version=83",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -267,7 +267,7 @@
           "tank_ml": 24800,
           "consumption_ml_per_100km": 5100,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/africa-twin-2026-ban-adventure-sports?version=26",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -287,7 +287,7 @@
           "tank_ml": 18800,
           "consumption_ml_per_100km": 5100,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/africa-twin-2026-ban-tieu-chuan?version=28",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -307,7 +307,7 @@
           "tank_ml": 4400,
           "consumption_ml_per_100km": 2120,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?version=109",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -327,7 +327,7 @@
           "tank_ml": 4400,
           "consumption_ml_per_100km": 2120,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?version=89",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -347,7 +347,7 @@
           "tank_ml": 4400,
           "consumption_ml_per_100km": 2230,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?version=85",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -366,7 +366,7 @@
           "tank_ml": 3700,
           "consumption_ml_per_100km": 1850,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/blade?version=22",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -407,7 +407,7 @@
           "tank_ml": 17000,
           "consumption_ml_per_100km": 6170,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/cb1000-hornet?version=77",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -427,7 +427,7 @@
           "tank_ml": 17100,
           "consumption_ml_per_100km": 3660,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/cb500-hornet-2026?version=118",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -446,7 +446,7 @@
           "tank_ml": 15400,
           "consumption_ml_per_100km": 5070,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/cb650r-2026?version=47",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -466,7 +466,7 @@
           "tank_ml": 16500,
           "consumption_ml_per_100km": 7110,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/cbr1000rr-r-fireblade-sp-2024?version=58",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -485,7 +485,7 @@
           "tank_ml": 17100,
           "consumption_ml_per_100km": 3630,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/cbr500r-2026?version=119",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -504,7 +504,7 @@
           "tank_ml": 15400,
           "consumption_ml_per_100km": 4980,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/cbr650r-2026?version=43",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -605,7 +605,7 @@
           "tank_ml": 12200,
           "consumption_ml_per_100km": 3680,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/cl500?version=78",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -666,7 +666,7 @@
           "tank_ml": 5400,
           "consumption_ml_per_100km": 1610,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/ct125?version=84",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -686,7 +686,7 @@
           "tank_ml": 4600,
           "consumption_ml_per_100km": 1470,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/future-125-fi?version=62",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -705,7 +705,7 @@
           "tank_ml": 15000,
           "consumption_ml_per_100km": 2540,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/gb350s?version=116",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -725,7 +725,7 @@
           "tank_ml": 21000,
           "consumption_ml_per_100km": 5750,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/gold-wing-2025?version=14",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -766,7 +766,7 @@
           "tank_ml": 6000,
           "consumption_ml_per_100km": 2100,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/lead-abs?version=91",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -785,7 +785,7 @@
           "tank_ml": 17700,
           "consumption_ml_per_100km": 3740,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/nx500-2026?version=117",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -805,7 +805,7 @@
           "tank_ml": 13600,
           "consumption_ml_per_100km": 5440,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/rebel-1100-2025?version=82",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -825,7 +825,7 @@
           "tank_ml": 11200,
           "consumption_ml_per_100km": 3680,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/rebel-500-2025?version=20",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -845,7 +845,7 @@
           "tank_ml": 5600,
           "consumption_ml_per_100km": 2160,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/sh-mode-125?version=115",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -864,7 +864,7 @@
           "tank_ml": 7000,
           "consumption_ml_per_100km": 2330,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/sh160i125i?version=99",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -883,7 +883,7 @@
           "tank_ml": 7000,
           "consumption_ml_per_100km": 2340,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/sh160i125i?version=95",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -902,7 +902,7 @@
           "tank_ml": 9300,
           "consumption_ml_per_100km": 3630,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/sh350i?version=76",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -922,7 +922,7 @@
           "tank_ml": 3700,
           "consumption_ml_per_100km": 1550,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/super-cub-c125?version=8",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -941,7 +941,7 @@
           "tank_ml": 16900,
           "consumption_ml_per_100km": 4480,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/transalp-2025?version=40",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -961,7 +961,7 @@
           "tank_ml": 5500,
           "consumption_ml_per_100km": 2110,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/vario-125?version=19",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -981,7 +981,7 @@
           "tank_ml": 5500,
           "consumption_ml_per_100km": 2200,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/vario-160?version=46",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1000,7 +1000,7 @@
           "tank_ml": 4800,
           "consumption_ml_per_100km": 1820,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/vision?version=103",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1020,7 +1020,7 @@
           "tank_ml": 3700,
           "consumption_ml_per_100km": 1720,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-phien-ban-co-dien?version=59",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1040,7 +1040,7 @@
           "tank_ml": 4000,
           "consumption_ml_per_100km": 1560,
           "source_url": "https://www.honda.com.vn/xe-may/san-pham/wave-rsx?version=81",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1328,7 +1328,7 @@
           "tank_ml": 13000,
           "consumption_ml_per_100km": 4900,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/eliminator/street-cruiser/eliminator/2027-eliminator-500",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1348,7 +1348,7 @@
           "tank_ml": 16000,
           "consumption_ml_per_100km": null,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/kle/rally-adventure/kle500/2027-kle500-se",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1368,7 +1368,7 @@
           "tank_ml": 12000,
           "consumption_ml_per_100km": null,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/meguro/retro-classic/meguro-s1/2027-meguro-s1",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1388,7 +1388,7 @@
           "tank_ml": 14000,
           "consumption_ml_per_100km": 4250,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/sport/ninja-500/2027-ninja-500",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1408,7 +1408,7 @@
           "tank_ml": 15000,
           "consumption_ml_per_100km": 5400,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/sport/ninja-650/2026-ninja-650",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1428,7 +1428,7 @@
           "tank_ml": 17000,
           "consumption_ml_per_100km": null,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/hypersport/ninja-h2/2022-ninja-h2-carbon",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1448,7 +1448,7 @@
           "tank_ml": 17000,
           "consumption_ml_per_100km": null,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/hypersport/ninja-h2r/2022-ninja-h2r",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1468,7 +1468,7 @@
           "tank_ml": 17000,
           "consumption_ml_per_100km": null,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/supersport/ninja-zx-10r/2026-ninja-zx-10r",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1488,7 +1488,7 @@
           "tank_ml": 15000,
           "consumption_ml_per_100km": 5700,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/supersport/ninja-zx-4rr/2026-ninja-zx-4rr",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1508,7 +1508,7 @@
           "tank_ml": 17000,
           "consumption_ml_per_100km": 6580,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/ninja/supersport/ninja-zx-6r/2027-ninja-zx-6r",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1528,7 +1528,7 @@
           "tank_ml": 21000,
           "consumption_ml_per_100km": 5300,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/versys/adventure-touring/versys-650/2023-versys-650",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1548,7 +1548,7 @@
           "tank_ml": 14000,
           "consumption_ml_per_100km": 5500,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/vulcan/sport-cruiser/vulcan-s/2027-vulcan-s-abs",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1567,7 +1567,7 @@
           "tank_ml": 12000,
           "consumption_ml_per_100km": null,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/w/retro-classic/w230/2027-w230",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1586,7 +1586,7 @@
           "tank_ml": 15000,
           "consumption_ml_per_100km": 5400,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/w/retro-classic/w800/2027-w800",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1606,7 +1606,7 @@
           "tank_ml": 17000,
           "consumption_ml_per_100km": null,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/supernaked/z1100/2027-z1100-se",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1625,7 +1625,7 @@
           "tank_ml": 14000,
           "consumption_ml_per_100km": 4900,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/supernaked/z500/2024-z500",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1644,7 +1644,7 @@
           "tank_ml": 15000,
           "consumption_ml_per_100km": 4400,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/supernaked/z650/2026-z650-s",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1663,7 +1663,7 @@
           "tank_ml": 12000,
           "consumption_ml_per_100km": 5300,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/retro-sport/z650rs/2026-z650rs",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1682,7 +1682,7 @@
           "tank_ml": 17000,
           "consumption_ml_per_100km": 5310,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/supernaked/z900/2026-z900",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -1702,7 +1702,7 @@
           "tank_ml": 17000,
           "consumption_ml_per_100km": null,
           "source_url": "https://kawasaki-motors.vn/vi-vn/xe-mo-to/z/retro-sport/z900rs/2026-z900rs-se",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2630,7 +2630,7 @@
           "tank_ml": 3400,
           "consumption_ml_per_100km": 1760,
           "source_url": "https://www.sym.com.vn/san-pham/angel-110-38.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2650,7 +2650,7 @@
           "tank_ml": 3400,
           "consumption_ml_per_100km": 1260,
           "source_url": "https://www.sym.com.vn/san-pham/angela-50-son-mo--26.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2670,7 +2670,7 @@
           "tank_ml": 6200,
           "consumption_ml_per_100km": 2220,
           "source_url": "https://www.sym.com.vn/san-pham/attila-50-5.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2690,7 +2690,7 @@
           "tank_ml": 4000,
           "consumption_ml_per_100km": 1530,
           "source_url": "https://www.sym.com.vn/san-pham/elegant-50-banh-mam--23.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2710,7 +2710,7 @@
           "tank_ml": 4000,
           "consumption_ml_per_100km": 1530,
           "source_url": "https://www.sym.com.vn/san-pham/elegant-sport-50-banh-cam--36.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2730,7 +2730,7 @@
           "tank_ml": 4300,
           "consumption_ml_per_100km": 1880,
           "source_url": "https://www.sym.com.vn/san-pham/elite-50-phien-ban-dac-biet-27.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2750,7 +2750,7 @@
           "tank_ml": 3400,
           "consumption_ml_per_100km": 1290,
           "source_url": "https://www.sym.com.vn/san-pham/galaxy-50-banh-mam--29.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2770,7 +2770,7 @@
           "tank_ml": 7300,
           "consumption_ml_per_100km": 2260,
           "source_url": "https://www.sym.com.vn/san-pham/naga-150-40.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2790,7 +2790,7 @@
           "tank_ml": 6500,
           "consumption_ml_per_100km": 1960,
           "source_url": "https://www.sym.com.vn/san-pham/priti-125-39.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2810,7 +2810,7 @@
           "tank_ml": 6500,
           "consumption_ml_per_100km": 1750,
           "source_url": "https://www.sym.com.vn/san-pham/priti-50-35.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2830,7 +2830,7 @@
           "tank_ml": 5000,
           "consumption_ml_per_100km": 1950,
           "source_url": "https://www.sym.com.vn/san-pham/shark-50-32.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2850,7 +2850,7 @@
           "tank_ml": 5200,
           "consumption_ml_per_100km": 1790,
           "source_url": "https://www.sym.com.vn/san-pham/shark-efi-50-41.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2870,7 +2870,7 @@
           "tank_ml": 5000,
           "consumption_ml_per_100km": 1750,
           "source_url": "https://www.sym.com.vn/san-pham/tpbw-125-phien-ban-key-set--43.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -2890,7 +2890,7 @@
           "tank_ml": 5700,
           "consumption_ml_per_100km": 2480,
           "source_url": "https://www.sym.com.vn/san-pham/tuscany-150-34.html",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3453,7 +3453,7 @@
           "tank_ml": 5400,
           "consumption_ml_per_100km": 2070,
           "source_url": "https://yamaha-motor.com.vn/xe/exciter-155-vva-phien-ban-tieu-chuan-mau-moi-b5vj/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3473,7 +3473,7 @@
           "tank_ml": 5400,
           "consumption_ml_per_100km": 2070,
           "source_url": "https://yamaha-motor.com.vn/xe/exciter-155-vva-tcs-phien-ban-monster-d199/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3493,7 +3493,7 @@
           "tank_ml": 3900,
           "consumption_ml_per_100km": 2030,
           "source_url": "https://yamaha-motor.com.vn/xe/freego-s-abs-phien-ban-dac-biet-mau-moi-b4uc/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3513,7 +3513,7 @@
           "tank_ml": 5100,
           "consumption_ml_per_100km": 1700,
           "source_url": "https://yamaha-motor.com.vn/xe/gear-125-hybrid-phien-ban-cao-cap-df94/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3532,7 +3532,7 @@
           "tank_ml": 4000,
           "consumption_ml_per_100km": 1730,
           "source_url": "https://yamaha-motor.com.vn/xe/grande-phien-ban-tieu-chuan-mau-moi-nhat-2025-bjjd/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3551,7 +3551,7 @@
           "tank_ml": 4200,
           "consumption_ml_per_100km": 1980,
           "source_url": "https://yamaha-motor.com.vn/xe/janus-phien-ban-dac-biet-mau-moi-2025-bj7x-2/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3571,7 +3571,7 @@
           "tank_ml": 4000,
           "consumption_ml_per_100km": 1640,
           "source_url": "https://yamaha-motor.com.vn/xe/jupiter-finn-phien-ban-cao-cap-mau-moi-bpc6/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3590,7 +3590,7 @@
           "tank_ml": 5000,
           "consumption_ml_per_100km": 1800,
           "source_url": "https://yamaha-motor.com.vn/xe/latte-phien-ban-tieu-chuan-mau-moi-2025-b0r7/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3610,7 +3610,7 @@
           "tank_ml": 4200,
           "consumption_ml_per_100km": 2190,
           "source_url": "https://yamaha-motor.com.vn/xe/lexi-155-vva-abs-phien-ban-cao-cap-moi-bvy4/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3630,7 +3630,7 @@
           "tank_ml": 14000,
           "consumption_ml_per_100km": null,
           "source_url": "https://yamaha-motor.com.vn/xe/mt-03-2025-brgb/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3650,7 +3650,7 @@
           "tank_ml": 10000,
           "consumption_ml_per_100km": 1936,
           "source_url": "https://yamaha-motor.com.vn/xe/mt-15-mau-moi-b8d9/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3669,7 +3669,7 @@
           "tank_ml": 7100,
           "consumption_ml_per_100km": 2300,
           "source_url": "https://yamaha-motor.com.vn/xe/nmax-phien-ban-tech-max-dc21/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3689,7 +3689,7 @@
           "tank_ml": 5500,
           "consumption_ml_per_100km": 2210,
           "source_url": "https://yamaha-motor.com.vn/xe/nvx-155-phien-ban-gp-2025-d111-2/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3709,7 +3709,7 @@
           "tank_ml": 5100,
           "consumption_ml_per_100km": null,
           "source_url": "https://yamaha-motor.com.vn/xe/pg-1-abs-moi-phien-ban-gioi-han-dg12-2/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3729,7 +3729,7 @@
           "tank_ml": 4000,
           "consumption_ml_per_100km": 1650,
           "source_url": "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-co-mau-moi-2025-bsaf/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3749,7 +3749,7 @@
           "tank_ml": 4200,
           "consumption_ml_per_100km": 2080,
           "source_url": "https://yamaha-motor.com.vn/xe/sirius-rc-phien-ban-vanh-duc-mau-moi-2025-bgyf-g/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3768,7 +3768,7 @@
           "tank_ml": 13000,
           "consumption_ml_per_100km": 3280,
           "source_url": "https://yamaha-motor.com.vn/xe/xmax-mau-moi-dr91/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3787,7 +3787,7 @@
           "tank_ml": 10000,
           "consumption_ml_per_100km": 2000,
           "source_url": "https://yamaha-motor.com.vn/xe/xs155r-2025-bpj2/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3807,7 +3807,7 @@
           "tank_ml": 11000,
           "consumption_ml_per_100km": 2300,
           "source_url": "https://yamaha-motor.com.vn/xe/yzf-r15m-hoan-toan-moi-bnd2/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     },
@@ -3827,7 +3827,7 @@
           "tank_ml": 14000,
           "consumption_ml_per_100km": 3650,
           "source_url": "https://yamaha-motor.com.vn/xe/yzf-r3-2025-brab/",
-          "checked_at": "2026-10-13"
+          "checked_at": "2026-10-19"
         }
       ]
     }
