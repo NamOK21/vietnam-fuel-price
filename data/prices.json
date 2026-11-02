@@ -1,8 +1,45 @@
 {
   "schema_version": 1,
   "source": "petrolimex+vnexpress",
-  "generated_at": "2026-11-01T01:26:49+07:00",
+  "generated_at": "2026-11-02T07:37:14+07:00",
   "periods": [
+    {
+      "effective_at": "2026-11-02T07:37:14+07:00",
+      "source": "petrolimex",
+      "estimated": true,
+      "prices": [
+        {
+          "code": "DIESEL_0001S",
+          "region1": 31640,
+          "region2": 32270
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 30240,
+          "region2": 30840
+        },
+        {
+          "code": "E10_RON95_III",
+          "region1": 24150,
+          "region2": 24630
+        },
+        {
+          "code": "E10_RON95_V",
+          "region1": 24950,
+          "region2": 25440
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 24220,
+          "region2": 24700
+        },
+        {
+          "code": "KEROSENE",
+          "region1": 29590,
+          "region2": 30180
+        }
+      ]
+    },
     {
       "effective_at": "2026-11-01T00:00:00+07:00",
       "source": "petrolimex",
