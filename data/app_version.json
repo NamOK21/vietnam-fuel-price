@@ -1,11 +1,12 @@
 {
-  "version_code": 6,
-  "version_name": "0.3.3",
+  "version_code": 7,
+  "version_name": "0.4.0",
   "published_at": "2026-11-03",
   "apk_url": "https://github.com/NamOK21/vietnam-fuel-price/releases/download/preview/gia-xang-hom-nay.apk",
   "changes": [
-    "Sửa lỗi bảng giá hiện \"= 0\" và mất mức tăng/giảm của kỳ điều hành khi có loại nhiên liệu đổi giá ngoài kỳ",
-    "Ghi chú rõ loại nhiên liệu nào vừa đổi giá ngoài kỳ điều hành",
-    "Thông báo đổi giá ngoài kỳ chỉ nêu loại vừa đổi, không báo lặp kỳ đã báo"
+    "Màn Giá hôm nay mở đầu bằng giá loại xăng xe bạn đổ, mức tăng/giảm và tiền đầy bình",
+    "Nhật ký hiện chi phí xăng mỗi km; đầu tháng chưa đổ lần nào thì hiện 30 ngày qua thay vì 0 ₫",
+    "Màu sắc rõ nghĩa hơn: đỏ chỉ dành cho giá tăng và cảnh báo, giá và tiền dùng màu xanh",
+    "Hiển thị gọn gàng khi tăng cỡ chữ hệ thống; chip không còn bị cắt, nút Ghi đổ xăng không che nội dung"
   ]
 }
