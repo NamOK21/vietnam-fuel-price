@@ -1,10 +1,11 @@
 {
-  "version_code": 5,
-  "version_name": "0.3.2",
-  "published_at": "2026-10-17",
+  "version_code": 6,
+  "version_name": "0.3.3",
+  "published_at": "2026-11-03",
   "apk_url": "https://github.com/NamOK21/vietnam-fuel-price/releases/download/preview/gia-xang-hom-nay.apk",
   "changes": [
-    "Giá xăng hiển thị đầy đủ trở lại (vùng 2, E10 RON 95-V, dầu DO 0,001S-V, dầu hoả) sau khi Petrolimex đổi tên sản phẩm",
-    "Ghi rõ giá là giá bán tại Petrolimex (từ 15/10 thấp hơn giá trần 300 đồng/lít)"
+    "Sửa lỗi bảng giá hiện \"= 0\" và mất mức tăng/giảm của kỳ điều hành khi có loại nhiên liệu đổi giá ngoài kỳ",
+    "Ghi chú rõ loại nhiên liệu nào vừa đổi giá ngoài kỳ điều hành",
+    "Thông báo đổi giá ngoài kỳ chỉ nêu loại vừa đổi, không báo lặp kỳ đã báo"
   ]
 }
