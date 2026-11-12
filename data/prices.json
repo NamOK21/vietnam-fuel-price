@@ -1,8 +1,45 @@
 {
   "schema_version": 1,
   "source": "petrolimex+vnexpress",
-  "generated_at": "2026-11-05T17:42:59+07:00",
+  "generated_at": "2026-11-12T17:53:45+07:00",
   "periods": [
+    {
+      "effective_at": "2026-11-12T15:00:00+07:00",
+      "source": "petrolimex",
+      "source_url": "https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-phut-ngay-12-11-2026.html",
+      "prices": [
+        {
+          "code": "DIESEL_0001S",
+          "region1": 28620,
+          "region2": 29190
+        },
+        {
+          "code": "DIESEL_005S",
+          "region1": 26820,
+          "region2": 27350
+        },
+        {
+          "code": "E10_RON95_III",
+          "region1": 19840,
+          "region2": 20230
+        },
+        {
+          "code": "E10_RON95_V",
+          "region1": 21840,
+          "region2": 22270
+        },
+        {
+          "code": "E5_RON92",
+          "region1": 19390,
+          "region2": 19770
+        },
+        {
+          "code": "KEROSENE",
+          "region1": 26400,
+          "region2": 26920
+        }
+      ]
+    },
     {
       "effective_at": "2026-11-05T15:00:00+07:00",
       "source": "petrolimex",
